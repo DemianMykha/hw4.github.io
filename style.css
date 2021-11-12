@@ -1,0 +1,42 @@
+body {
+    background-color: lightgrey;
+}
+.container {
+    margin-bottom: 20px;
+    background-color: white;
+}
+.navbar {
+    background-color: rgb(226, 178, 55);
+    width: 100%;
+}
+.navbar a{
+    width: 200px;
+    font: 20px;
+    list-style-position:inside;
+    margin-left: auto;
+}
+
+
+.card {
+   border: 0px;
+}
+a{
+    margin-left: 5px;
+    color: rgb(226, 178, 55);
+}
+a:hover{
+    color: rgb(226, 178, 55);
+}
+.footer {
+     height: 200px;
+     border: 1px solid lightgrey;
+}
+.footer{
+    padding-top: 55px;
+    
+    
+    display: grid;
+    justify-content: center;
+    height: 200px;
+     border: 1px solid lightgrey;
+}
